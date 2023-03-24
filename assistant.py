@@ -1,4 +1,4 @@
-# https://github.com/git-mare
+# https://github.com/git-mare/voice-assistant
 # O programa consiste em realizar ações simples por voz, experimente falar "criar um evento" e siga os passos
 # Após isso fale "lista" para abrir o cronograma de eventos criados.
 # Você pode checar os outros comandos em Lista de aliases.
